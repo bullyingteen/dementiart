@@ -1,5 +1,5 @@
 .vs
-assets/*
+#assets/*
 *.png
 *.exe
 *.pdb
