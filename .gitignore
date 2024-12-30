@@ -1,0 +1,6 @@
+.vs
+assets/*
+*.png
+*.exe
+*.pdb
+ols.json
